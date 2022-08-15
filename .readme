@@ -33,3 +33,7 @@ CarroUsuario
 	IdCarroUsuario guid
 	IdCarro FK_IdCarro 
 	IdUsuario FK_IdUsuario
+
+Mensagem
+	IdMensagem
+	Template
