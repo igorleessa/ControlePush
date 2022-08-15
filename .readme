@@ -1,0 +1,26 @@
+Aplicação de push
+
+Classes 
+Usuario
+	IdUsuario
+	Nome
+	CPF
+	Telefone
+	DataNascimento
+	Email
+	Senha
+
+UsuarioDependente
+	IdDependente
+	IdUsuario
+	
+Carro
+	IdCarro
+	Modelo
+	Placa
+	Cor
+	
+CarroUsuario
+	IdCarroUsuario
+	IdCarro FK_IdCarro
+	IdUsuario FK_IdUsuario
