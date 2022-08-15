@@ -1,26 +1,35 @@
 Aplicação de push
 
 Classes 
-Usuario
-	IdUsuario
-	Nome
-	CPF
-	Telefone
-	DataNascimento
-	Email
-	Senha
 
+Usuario
+	IdUsuario guid
+	IdPerfil FK_IdPerfil
+	Nome string
+	CPF string
+	Telefone string
+	DataNascimento datetime
+	Email string
+	Senha string
+	Ativo bool
+	
+Perfil
+	IdPerfil guid
+	Nome string
+	Nivel int
+	Permissao string
+	
 UsuarioDependente
-	IdDependente
-	IdUsuario
+	IdDependente guid
+	IdUsuario FK_IdUsuario
 	
 Carro
-	IdCarro
-	Modelo
-	Placa
-	Cor
+	IdCarro guid
+	Modelo string
+	Placa string
+	Cor string
 	
 CarroUsuario
-	IdCarroUsuario
-	IdCarro FK_IdCarro
+	IdCarroUsuario guid
+	IdCarro FK_IdCarro 
 	IdUsuario FK_IdUsuario
