@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/vdcnG0fqugCsHNgzjPghQ3APnKD5rFwBVgNTehS0g3RAF0xWQE+UhUvDst05DT61RQK/hAM+qKfyOzjCbfwWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\igor.lessa.souza\\source\\repos\\ControlePush\\ControlePush.Domain\\ControlePush.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\igor.lessa.souza\\.nuget\\packages\\fluentvalidation\\11.2.0\\fluentvalidation.11.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

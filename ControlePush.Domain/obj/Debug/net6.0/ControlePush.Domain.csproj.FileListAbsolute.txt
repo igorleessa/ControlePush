@@ -1,0 +1,15 @@
+C:\Users\igor.lessa.souza\source\repos\ControlePush\ControlePush.Domain\bin\Debug\net6.0\ControlePush.Domain.deps.json
+C:\Users\igor.lessa.souza\source\repos\ControlePush\ControlePush.Domain\bin\Debug\net6.0\ControlePush.Domain.dll
+C:\Users\igor.lessa.souza\source\repos\ControlePush\ControlePush.Domain\bin\Debug\net6.0\ControlePush.Domain.pdb
+C:\Users\igor.lessa.souza\source\repos\ControlePush\ControlePush.Domain\bin\Debug\net6.0\ControlePush.CrossCutting.dll
+C:\Users\igor.lessa.souza\source\repos\ControlePush\ControlePush.Domain\bin\Debug\net6.0\ControlePush.CrossCutting.pdb
+C:\Users\igor.lessa.souza\source\repos\ControlePush\ControlePush.Domain\obj\Debug\net6.0\ControlePush.Domain.csproj.AssemblyReference.cache
+C:\Users\igor.lessa.souza\source\repos\ControlePush\ControlePush.Domain\obj\Debug\net6.0\ControlePush.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igor.lessa.souza\source\repos\ControlePush\ControlePush.Domain\obj\Debug\net6.0\ControlePush.Domain.AssemblyInfoInputs.cache
+C:\Users\igor.lessa.souza\source\repos\ControlePush\ControlePush.Domain\obj\Debug\net6.0\ControlePush.Domain.AssemblyInfo.cs
+C:\Users\igor.lessa.souza\source\repos\ControlePush\ControlePush.Domain\obj\Debug\net6.0\ControlePush.Domain.csproj.CoreCompileInputs.cache
+C:\Users\igor.lessa.souza\source\repos\ControlePush\ControlePush.Domain\obj\Debug\net6.0\ControlePush.Domain.csproj.CopyComplete
+C:\Users\igor.lessa.souza\source\repos\ControlePush\ControlePush.Domain\obj\Debug\net6.0\ControlePush.Domain.dll
+C:\Users\igor.lessa.souza\source\repos\ControlePush\ControlePush.Domain\obj\Debug\net6.0\refint\ControlePush.Domain.dll
+C:\Users\igor.lessa.souza\source\repos\ControlePush\ControlePush.Domain\obj\Debug\net6.0\ControlePush.Domain.pdb
+C:\Users\igor.lessa.souza\source\repos\ControlePush\ControlePush.Domain\obj\Debug\net6.0\ref\ControlePush.Domain.dll

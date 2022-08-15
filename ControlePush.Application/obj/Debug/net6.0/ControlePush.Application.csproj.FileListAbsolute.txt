@@ -1,0 +1,12 @@
+C:\Users\igor.lessa.souza\source\repos\ControlePush\ControlePush.Application\bin\Debug\net6.0\ControlePush.Application.deps.json
+C:\Users\igor.lessa.souza\source\repos\ControlePush\ControlePush.Application\bin\Debug\net6.0\ControlePush.Application.dll
+C:\Users\igor.lessa.souza\source\repos\ControlePush\ControlePush.Application\bin\Debug\net6.0\ControlePush.Application.pdb
+C:\Users\igor.lessa.souza\source\repos\ControlePush\ControlePush.Application\obj\Debug\net6.0\ControlePush.Application.csproj.AssemblyReference.cache
+C:\Users\igor.lessa.souza\source\repos\ControlePush\ControlePush.Application\obj\Debug\net6.0\ControlePush.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igor.lessa.souza\source\repos\ControlePush\ControlePush.Application\obj\Debug\net6.0\ControlePush.Application.AssemblyInfoInputs.cache
+C:\Users\igor.lessa.souza\source\repos\ControlePush\ControlePush.Application\obj\Debug\net6.0\ControlePush.Application.AssemblyInfo.cs
+C:\Users\igor.lessa.souza\source\repos\ControlePush\ControlePush.Application\obj\Debug\net6.0\ControlePush.Application.csproj.CoreCompileInputs.cache
+C:\Users\igor.lessa.souza\source\repos\ControlePush\ControlePush.Application\obj\Debug\net6.0\ControlePush.Application.dll
+C:\Users\igor.lessa.souza\source\repos\ControlePush\ControlePush.Application\obj\Debug\net6.0\refint\ControlePush.Application.dll
+C:\Users\igor.lessa.souza\source\repos\ControlePush\ControlePush.Application\obj\Debug\net6.0\ControlePush.Application.pdb
+C:\Users\igor.lessa.souza\source\repos\ControlePush\ControlePush.Application\obj\Debug\net6.0\ref\ControlePush.Application.dll
