@@ -15,6 +15,7 @@ namespace ControlePush.Domain.Account
         public Email Email { get; set; }
         public Password Password { get; set; }
         public bool Ativo { get; set; }
+        public virtual IList<ControlePush.Domain.Carro.Carro> Carros { get; set; }
 
         public void SetPassword()
         {

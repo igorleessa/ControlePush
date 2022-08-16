@@ -1,4 +1,4 @@
-﻿namespace ControlePush.Domain.Carro
+﻿namespace ControlePush.Domain.Mensagem
 {
     public class Mensagem
     {
