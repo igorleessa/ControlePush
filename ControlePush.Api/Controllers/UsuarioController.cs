@@ -1,6 +1,13 @@
-using ControlePush.Application.Mensagem.Service;
+using ControlePush.Application.Usuario.Dto;
+using ControlePush.Application.Usuario.Handler.Query;
+using ControlePush.Application.Usuario.Hanlder.Command;
+using ControlePush.Application.Usuario.Service;
+using ControlePush.Domain.Account;
 using ControlePush.Domain.Mensagem;
+using MediatR;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Infrastructure;
+using static ControlePush.Application.Usuario.Dto.UsuarioDto;
 
 namespace ControlePush.Api.Controllers
 {
@@ -8,16 +15,23 @@ namespace ControlePush.Api.Controllers
     [Route("[controller]")]
     public class UsuarioController : ControllerBase
     {
-        private readonly IMensagemService mensagemService;
+        private readonly IMediator mediator;
 
-        public UsuarioController(IMensagemService mensagemService)
+        public UsuarioController(IMediator mediator)
         {
-            this.mensagemService = mensagemService; 
+            this.mediator = mediator; 
+        }
+        [HttpPost]
+        public async Task<IActionResult> Criar(UsuarioInputDto dto)
+        {
+            var result = await this.mediator.Send(new CreateUsuarioCommand(dto));
+            return Created($"{result.Usuario.Id}", result.Usuario);
         }
 
-        public string Post(Mensagem request)
+        [HttpPost]
+        public async Task<IActionResult> Obter()
         {
-            return mensagemService.EnviarSms(request);
+            return Ok(await this.mediator.Send(new GetAllUsuariosQuery()));
         }
     }
 }
