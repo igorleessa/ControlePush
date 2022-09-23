@@ -1,7 +1,7 @@
 ﻿using MediatR;
 using static ControlePush.Application.Carro.Dto.CarroDto;
 
-namespace ControlePush.Application.Carro.Query
+namespace ControlePush.Application.Carro.Handler.Query
 {
     public class GetAllCarrosQuery : IRequest<GetAllCarrosQueryResponse>
     {

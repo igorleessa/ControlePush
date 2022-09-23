@@ -7,9 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Usuario\Hanlder\Command\" />
-    <Folder Include="Usuario\Hanlder\Query\" />
-    <Folder Include="Usuario\Profile\" />
+    <Folder Include="Mensagem\Handler\" />
   </ItemGroup>
 
   <ItemGroup>

@@ -1,7 +1,7 @@
 ﻿using MediatR;
 using static ControlePush.Application.Carro.Dto.CarroDto;
 
-namespace ControlePush.Application.Carro.Command
+namespace ControlePush.Application.Carro.Handler.Command
 {
     public class CreateCarroCommand : IRequest<CreateCarroCommandResponse>
     {
