@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ccTt5pyOPQAE1XjQjMHCtfQSW3pGBE9g7YUZ+TAUwaSHNa6nMNiw/uisu2GSosYprmQJgz023bD/bfTZ3LHdbA==",
+  "dgSpecHash": "nGgOJWLh6G07KRmpgjwVIPGgEADoRuTF2jNOlPTPbv14Hfiy8wuN+k7p7sCfAhtetY7W1PysW3OxQ8eXrg+eYA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\igor.lessa.souza\\source\\repos\\ControlePush\\ControlePush.Test\\ControlePush.Test.csproj",
+  "projectFilePath": "C:\\Users\\igor.souza\\source\\repos\\ControlePush\\ControlePush.Test\\ControlePush.Test.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

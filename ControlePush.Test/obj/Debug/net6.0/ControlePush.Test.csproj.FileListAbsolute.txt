@@ -10,3 +10,15 @@ C:\Users\igor.lessa.souza\source\repos\ControlePush\ControlePush.Test\obj\Debug\
 C:\Users\igor.lessa.souza\source\repos\ControlePush\ControlePush.Test\obj\Debug\net6.0\refint\ControlePush.Test.dll
 C:\Users\igor.lessa.souza\source\repos\ControlePush\ControlePush.Test\obj\Debug\net6.0\ControlePush.Test.pdb
 C:\Users\igor.lessa.souza\source\repos\ControlePush\ControlePush.Test\obj\Debug\net6.0\ref\ControlePush.Test.dll
+C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Test\bin\Debug\net6.0\ControlePush.Test.deps.json
+C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Test\bin\Debug\net6.0\ControlePush.Test.dll
+C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Test\bin\Debug\net6.0\ControlePush.Test.pdb
+C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Test\obj\Debug\net6.0\ControlePush.Test.csproj.AssemblyReference.cache
+C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Test\obj\Debug\net6.0\ControlePush.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Test\obj\Debug\net6.0\ControlePush.Test.AssemblyInfoInputs.cache
+C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Test\obj\Debug\net6.0\ControlePush.Test.AssemblyInfo.cs
+C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Test\obj\Debug\net6.0\ControlePush.Test.csproj.CoreCompileInputs.cache
+C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Test\obj\Debug\net6.0\ControlePush.Test.dll
+C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Test\obj\Debug\net6.0\refint\ControlePush.Test.dll
+C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Test\obj\Debug\net6.0\ControlePush.Test.pdb
+C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Test\obj\Debug\net6.0\ref\ControlePush.Test.dll

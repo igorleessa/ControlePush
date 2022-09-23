@@ -13,14 +13,8 @@ namespace ControlePush.Domain.Account
         public string Telefone { get; set; }
         public DateTime DataNascimento { get; set; }
         public Email Email { get; set; }
-        public Password Password { get; set; }
         public bool Ativo { get; set; }
         public virtual IList<ControlePush.Domain.Carro.Carro> Carros { get; set; }
-
-        public void SetPassword()
-        {
-            this.Password.Valor = SecurityUtils.HashSHA1(this.Password.Valor);
-        }
 
         public void Validate() =>
            new UsuarioValidator().ValidateAndThrow(this);

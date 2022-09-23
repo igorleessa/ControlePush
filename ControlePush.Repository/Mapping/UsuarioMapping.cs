@@ -17,11 +17,6 @@ namespace ControlePush.Repository.Mapping
             builder.Property(x => x.DataNascimento).IsRequired();
             builder.Property(x => x.Ativo).IsRequired();
 
-            builder.OwnsOne(x => x.Password, p =>
-            {
-                p.Property(f => f.Valor).HasColumnName("Password").IsRequired();
-            });
-
             builder.OwnsOne(x => x.Email, p =>
             {
                 p.Property(f => f.Valor).HasColumnName("Email").IsRequired().HasMaxLength(1024);

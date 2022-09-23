@@ -1,0 +1,3 @@
+C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Web\obj\Debug\ControlePush.Web.njsproj.AssemblyReference.cache
+C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Web\obj\Debug\ControlePush.Web.njsproj.CoreCompileInputs.cache
+C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Web\bin\Microsoft.NodejsTools.WebRole.dll
