@@ -7,6 +7,6 @@ namespace ControlePush.Application.Carro.Service
         Task<CarroOutputDto> Criar(CarroInputDto dto);
         Task<CarroOutputDto> ObterCarro(Guid Id);
         Task<List<CarroOutputDto>> ObterTodos();
-        void Editar(CarroInputDto dto);
+        //void Editar(CarroEditDto dto);
     }
 }

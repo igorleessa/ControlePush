@@ -8,7 +8,7 @@ namespace ControlePush.Domain.Carro.Rules
         {
             RuleFor(x => x.Modelo).NotEmpty();
             RuleFor(x => x.Marca).NotEmpty();
-            RuleFor(x => x.Placa).SetValidator(new PlacaValidator());
+            RuleFor(x => x.Placa).NotEmpty();
         }
     }
 }

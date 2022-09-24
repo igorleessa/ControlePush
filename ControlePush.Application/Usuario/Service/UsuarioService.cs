@@ -2,6 +2,7 @@
 using ControlePush.Domain.Account.Repository;
 using static ControlePush.Application.Usuario.Dto.UsuarioDto;
 using UsuarioObj = ControlePush.Domain.Account.Usuario;
+using CarroObj = ControlePush.Domain.Carro.Carro;
 
 namespace ControlePush.Application.Usuario.Service
 {
@@ -19,7 +20,6 @@ namespace ControlePush.Application.Usuario.Service
         public async Task<UsuarioOutputDto> Criar(UsuarioInputDto dto)
         {
             var usuario = mapper.Map<UsuarioObj>(dto);
-
             await this.usuarioRepository.Save(usuario);
 
             return this.mapper.Map<UsuarioOutputDto>(usuario);

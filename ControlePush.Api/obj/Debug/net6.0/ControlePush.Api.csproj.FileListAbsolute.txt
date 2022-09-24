@@ -25,13 +25,6 @@ C:\Users\igor.lessa.souza\source\repos\ControlePush\ControlePush.Api\obj\Debug\n
 C:\Users\igor.lessa.souza\source\repos\ControlePush\ControlePush.Api\obj\Debug\net6.0\ControlePush.Api.pdb
 C:\Users\igor.lessa.souza\source\repos\ControlePush\ControlePush.Api\obj\Debug\net6.0\ControlePush.Api.genruntimeconfig.cache
 C:\Users\igor.lessa.souza\source\repos\ControlePush\ControlePush.Api\obj\Debug\net6.0\ref\ControlePush.Api.dll
-C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Api\obj\Debug\net6.0\ControlePush.Api.csproj.AssemblyReference.cache
-C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Api\obj\Debug\net6.0\ControlePush.Api.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Api\obj\Debug\net6.0\ControlePush.Api.AssemblyInfoInputs.cache
-C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Api\obj\Debug\net6.0\ControlePush.Api.AssemblyInfo.cs
-C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Api\obj\Debug\net6.0\ControlePush.Api.csproj.CoreCompileInputs.cache
-C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Api\obj\Debug\net6.0\ControlePush.Api.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Api\obj\Debug\net6.0\ControlePush.Api.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Api\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Api\bin\Debug\net6.0\appsettings.json
 C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Api\bin\Debug\net6.0\ControlePush.Api.exe
@@ -47,6 +40,8 @@ C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Api\bin\Debug\net6.0\
 C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Api\bin\Debug\net6.0\MediatR.dll
 C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Api\bin\Debug\net6.0\MediatR.Contracts.dll
 C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Api\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Api\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
 C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
 C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
@@ -63,6 +58,8 @@ C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Api\bin\Debug\net6.0\
 C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
 C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Api\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
 C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -93,6 +90,13 @@ C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Api\bin\Debug\net6.0\
 C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Api\bin\Debug\net6.0\ControlePush.Repository.pdb
 C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Api\bin\Debug\net6.0\ControlePush.CrossCutting.pdb
 C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Api\bin\Debug\net6.0\ControlePush.Domain.pdb
+C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Api\obj\Debug\net6.0\ControlePush.Api.csproj.AssemblyReference.cache
+C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Api\obj\Debug\net6.0\ControlePush.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Api\obj\Debug\net6.0\ControlePush.Api.AssemblyInfoInputs.cache
+C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Api\obj\Debug\net6.0\ControlePush.Api.AssemblyInfo.cs
+C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Api\obj\Debug\net6.0\ControlePush.Api.csproj.CoreCompileInputs.cache
+C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Api\obj\Debug\net6.0\ControlePush.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Api\obj\Debug\net6.0\ControlePush.Api.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Api\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Api\obj\Debug\net6.0\staticwebassets.development.json
 C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Api\obj\Debug\net6.0\scopedcss\bundle\ControlePush.Api.styles.css
@@ -102,7 +106,3 @@ C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Api\obj\Debug\net6.0\
 C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Api\obj\Debug\net6.0\ControlePush.Api.pdb
 C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Api\obj\Debug\net6.0\ControlePush.Api.genruntimeconfig.cache
 C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Api\obj\Debug\net6.0\ref\ControlePush.Api.dll
-C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Api\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
-C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
-C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
-C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Api\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll

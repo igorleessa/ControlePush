@@ -18,7 +18,7 @@ namespace ControlePush.Api
 
             builder.Services
                    .RegisterApplication()
-                   .RegisterRepository(builder.Configuration.GetConnectionString("ControlePush"));
+                   .RegisterRepository(builder.Configuration.GetConnectionString("ControlePushConnection"));
 
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();

@@ -11,6 +11,7 @@ C:\Users\igor.lessa.souza\source\repos\ControlePush\ControlePush.Repository\obj\
 C:\Users\igor.lessa.souza\source\repos\ControlePush\ControlePush.Repository\obj\Debug\net6.0\ControlePush.Repository.pdb
 C:\Users\igor.lessa.souza\source\repos\ControlePush\ControlePush.Repository\obj\Debug\net6.0\ref\ControlePush.Repository.dll
 C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Repository\bin\Debug\net6.0\ControlePush.Repository.deps.json
+C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Repository\bin\Debug\net6.0\ControlePush.Repository.runtimeconfig.json
 C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Repository\bin\Debug\net6.0\ControlePush.Repository.dll
 C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Repository\bin\Debug\net6.0\ControlePush.Repository.pdb
 C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Repository\bin\Debug\net6.0\ControlePush.CrossCutting.dll
@@ -26,4 +27,5 @@ C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Repository\obj\Debug\
 C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Repository\obj\Debug\net6.0\ControlePush.Repository.dll
 C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Repository\obj\Debug\net6.0\refint\ControlePush.Repository.dll
 C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Repository\obj\Debug\net6.0\ControlePush.Repository.pdb
+C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Repository\obj\Debug\net6.0\ControlePush.Repository.genruntimeconfig.cache
 C:\Users\igor.souza\source\repos\ControlePush\ControlePush.Repository\obj\Debug\net6.0\ref\ControlePush.Repository.dll

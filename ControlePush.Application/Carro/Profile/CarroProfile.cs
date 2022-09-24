@@ -7,14 +7,13 @@ namespace ControlePush.Application.Carro.Profile
     {
         public CarroProfile()
         {
-            CreateMap<CarroInputDto, CarroObj>()
-                .ForPath(x => x.Placa.Valor, f => f.MapFrom(m => m.Placa));
-
-            CreateMap<CarroObj, CarroOutputDto>();
-
             CreateMap<CarroInputDto, CarroObj>();
 
             CreateMap<CarroObj, CarroOutputDto>();
+
+            //CreateMap<CarroInputDto, CarroObj>();
+
+            //CreateMap<CarroObj, CarroOutputDto>();
 
         }
     }

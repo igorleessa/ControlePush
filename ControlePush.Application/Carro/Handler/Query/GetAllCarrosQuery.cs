@@ -9,9 +9,9 @@ namespace ControlePush.Application.Carro.Handler.Query
 
     public class GetAllCarrosQueryResponse
     {
-        public IList<CarroOutPutDto> Carros { get; set; }
+        public IList<CarroOutputDto> Carros { get; set; }
 
-        public GetAllCarrosQueryResponse(IList<CarroOutPutDto> carros)
+        public GetAllCarrosQueryResponse(IList<CarroOutputDto> carros)
         {
             Carros = carros;
         }

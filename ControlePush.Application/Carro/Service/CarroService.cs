@@ -39,10 +39,10 @@ namespace ControlePush.Application.Carro.Service
             return this.mapper.Map<List<CarroOutputDto>>(result);
         }
 
-        public async void Editar(CarroInputDto dto) 
-        {
-            var carro = mapper.Map<CarroObj>(dto);
-            await this.carroRepository.Update(carro);
-        }
+        //public async void Editar(CarroEditDto dto) 
+        //{
+        //    var carro = mapper.Map<CarroObj>(dto);
+        //    await this.carroRepository.Update(carro);
+        //}
     }
 }
