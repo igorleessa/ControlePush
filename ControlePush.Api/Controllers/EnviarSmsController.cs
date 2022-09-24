@@ -15,6 +15,7 @@ namespace ControlePush.Api.Controllers
             this.mensagemService = mensagemService; 
         }
 
+        [HttpPost]
         public string Post(Mensagem request)
         {
             return mensagemService.EnviarSms(request);
