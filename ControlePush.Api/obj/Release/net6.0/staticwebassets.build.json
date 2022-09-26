@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "f/vzuWeHQuVLZrcAfprSiwEjEF63+0afB7kJWFkgt8c=",
+  "Source": "ControlePush.Api",
+  "BasePath": "_content/ControlePush.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

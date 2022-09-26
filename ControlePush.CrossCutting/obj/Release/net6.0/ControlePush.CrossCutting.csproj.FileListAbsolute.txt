@@ -1,0 +1,12 @@
+C:\Users\igor.souza\source\repos\ControlePush\ControlePush.CrossCutting\bin\Release\net6.0\ControlePush.CrossCutting.deps.json
+C:\Users\igor.souza\source\repos\ControlePush\ControlePush.CrossCutting\bin\Release\net6.0\ControlePush.CrossCutting.dll
+C:\Users\igor.souza\source\repos\ControlePush\ControlePush.CrossCutting\bin\Release\net6.0\ControlePush.CrossCutting.pdb
+C:\Users\igor.souza\source\repos\ControlePush\ControlePush.CrossCutting\obj\Release\net6.0\ControlePush.CrossCutting.csproj.AssemblyReference.cache
+C:\Users\igor.souza\source\repos\ControlePush\ControlePush.CrossCutting\obj\Release\net6.0\ControlePush.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igor.souza\source\repos\ControlePush\ControlePush.CrossCutting\obj\Release\net6.0\ControlePush.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\igor.souza\source\repos\ControlePush\ControlePush.CrossCutting\obj\Release\net6.0\ControlePush.CrossCutting.AssemblyInfo.cs
+C:\Users\igor.souza\source\repos\ControlePush\ControlePush.CrossCutting\obj\Release\net6.0\ControlePush.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\igor.souza\source\repos\ControlePush\ControlePush.CrossCutting\obj\Release\net6.0\ControlePush.CrossCutting.dll
+C:\Users\igor.souza\source\repos\ControlePush\ControlePush.CrossCutting\obj\Release\net6.0\refint\ControlePush.CrossCutting.dll
+C:\Users\igor.souza\source\repos\ControlePush\ControlePush.CrossCutting\obj\Release\net6.0\ControlePush.CrossCutting.pdb
+C:\Users\igor.souza\source\repos\ControlePush\ControlePush.CrossCutting\obj\Release\net6.0\ref\ControlePush.CrossCutting.dll

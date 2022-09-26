@@ -5,7 +5,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace ControlePush.Api.Controllers
 {
     [ApiController]
-    [Route("[controller]")]
+    [Route("api/[controller]")]
     public class EnviarSmsController : ControllerBase
     {
         private readonly IMensagemService mensagemService;

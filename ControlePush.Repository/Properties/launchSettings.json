@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "ControlePush.Repository": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:61227;http://localhost:61229"
+    }
+  }
+}
